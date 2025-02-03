@@ -1,9 +1,9 @@
-795b7a2d6f065574438eac440416c30b *DESCRIPTION
+1bf74581fe7a337433540a0207c7c1d0 *DESCRIPTION
 4c4cf02e82950134ac4ecc5439d3ea69 *NAMESPACE
 74b1c2d169fe8c783d2d412c2ca7944a *R/dfr-package.R
 e2733d1065ac0d928863eda9be863d9a *R/dfr_adap_sgl.R
 6c6b542dae29f3efecabebc02c751363 *R/dfr_adap_sgl.cv.R
-956d41a1b34b4aea984e80560134199e *R/dfr_sgl.R
+b28c5bda8663af5cce34a412e3307159 *R/dfr_sgl.R
 053182df727ac0b188c2bacb09b06c48 *R/dfr_sgl.cv.R
 3e87186c4f22a42bbb45e6cef3916ef0 *R/fitting_code.R
 f97c6994539e74932a85254edc34564e *R/global_wrapper_code.R
@@ -19,7 +19,7 @@ a980172145428e76e1846382037917ff *inst/CITATION
 3fddf6c66cf7ff53b369ed67b3f0bdac *man/dfr-package.Rd
 57416c3255e566d335196b12cc363490 *man/dfr_adap_sgl.Rd
 160efa76585c9b771793267a33db5c60 *man/dfr_adap_sgl.cv.Rd
-fb5feafb57f11d0608b775b24732e41d *man/dfr_sgl.Rd
+8f3bea3ea96517e3cd38746333547535 *man/dfr_sgl.Rd
 e7110b3381e1a12f828b477415d8a7c0 *man/dfr_sgl.cv.Rd
 0ef081699a0244ff2ba1dfbc268cc483 *man/figures/asgl-time.png
 25583475e47c7291c6f5f3f266f4774f *man/figures/dfr-logo.png
